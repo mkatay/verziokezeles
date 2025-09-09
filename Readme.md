@@ -14,3 +14,4 @@
     > git config user.email ...
 - az új verzó megszületése:
     > git commit -m "first commit"
+- távoli repo létrehozása(GitHub)
